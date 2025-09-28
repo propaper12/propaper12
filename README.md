@@ -1,4 +1,3 @@
- [![MasterHead](https://avatars.githubusercontent.com/u/132578347?v=4)
 <h1 align="center">Hi 👋, I'm Ömer Çakan</h1>
 <h3 align="center">A passionate Data Analyst and Frontend Developer from Türkiye</h3>
 
