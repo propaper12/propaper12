@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ömer Çakan</h1>
-<h3 align="center">A passionate Data Analyst and Frontend Developer from Türkiye</h3>
+<h3 align="center">Data Scientist & Engineer | Building Scalable Real-Time Pipelines with Modern Data Stack (Kafka, Spark, Delta Lake) from Türkiye</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=propaper12&label=Profile%20views&color=0e75b6&style=flat" alt="propaper12" /> </p>
 
