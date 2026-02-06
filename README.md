@@ -10,7 +10,7 @@ Designing Production-Grade Data Platforms • Streaming Architectures • Distri
 </p>
 
 <p align="center">
-<a href="[https://linkedin.com/in/www.linkedin.com/in/ömer-çakan-819751261](https://www.linkedin.com/in/%C3%B6mer-%C3%A7akan-819751261/)" target="_blank">
+<a href="https://www.linkedin.com/in/%C3%B6mer-%C3%A7akan-819751261" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
 </a>
 </p>
