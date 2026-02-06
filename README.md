@@ -88,12 +88,19 @@ I design systems that are:
 </p>
 
 ---
+## 🚀 All streamlit project link:
+Streamlit:[https://bigdatas-mulatoregitim-mahry6kuukr6dmqgqbvbpp.streamlit.app/]
+Streamlit:[https://kripto-fiyat-tahmin-uygulamasi-xann46irjmdsgsgtmuc6zy.streamlit.app/]
+
+
 
 ## 🚀 Flagship Projects
 
 ### 🟢 Enterprise Real-Time Crypto Market Lakehouse & MLOps Platform
 
 > End-to-end production-grade **Big Data + Streaming + ML + MLOps** system
+
+
 
 **Architecture:**
 
@@ -113,3 +120,4 @@ Auto Training Trigger (ml_watcher)
 Spark MLlib & MLflow
         ↓
 Live Inference + Dashboards
+
