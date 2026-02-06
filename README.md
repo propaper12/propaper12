@@ -1,20 +1,115 @@
+
 <h1 align="center">Hi 👋, I'm Ömer Çakan</h1>
-<h3 align="center">Data Scientist & Engineer | Building Scalable Real-Time Pipelines with Modern Data Stack (Kafka, Spark, Delta Lake) from Türkiye</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=propaper12&label=Profile%20views&color=0e75b6&style=flat" alt="propaper12" /> </p>
+<h3 align="center">
+Data Scientist & Big Data Engineer | Real-Time Systems Architect | MLOps Engineer  
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=propaper12" alt="propaper12" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ömer-çakan-819751261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ömer-çakan-819751261" height="30" width="40" /></a>
+<p align="center">
+Designing Production-Grade Data Platforms • Streaming Architectures • Distributed ML Systems  
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+<a href="https://linkedin.com/in/www.linkedin.com/in/ömer-çakan-819751261" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=propaper12&show_icons=true&locale=en&layout=compact" alt="propaper12" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=propaper12&show_icons=true&locale=en" alt="propaper12" /></p>
+## 🚀 Professional Identity
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=propaper12&" alt="propaper12" /></p>
+I am a **Data Scientist & Big Data Engineer** specialized in **real-time streaming systems, distributed machine learning, and MLOps pipelines**.
+
+My work focuses on building **end-to-end data platforms** that ingest, process, analyze and learn from **high-volume streaming data** using **modern data stack technologies**.
+
+I design systems that are:
+
+- ⚡ High-throughput  
+- 🔄 Real-time  
+- 🧱 Fault-tolerant  
+- 📈 Scalable  
+- 🤖 ML-driven  
+
+---
+
+## 🏗️ System Architecture Expertise
+
+### 🔹 Streaming & Data Engineering
+- Apache Kafka (Event Streaming, Exactly-once pipelines)
+- Apache Spark Structured Streaming
+- Delta Lake (Bronze → Silver → Gold Architecture)
+- Real-time Feature Engineering
+- Distributed Batch & Stream Processing
+
+### 🔹 Machine Learning & MLOps
+- Spark MLlib
+- Scikit-learn
+- PyTorch
+- TensorFlow
+- MLflow
+- AutoML Systems
+- Continuous Training Pipelines
+- Model Drift Detection
+- Online Inference Architectures
+
+### 🔹 Platform & DevOps
+- Docker
+- Docker Compose
+- CI/CD Pipelines
+- Monitoring (Grafana, Prometheus)
+- Observability Systems
+
+---
+
+## 🧠 Advanced Architecture Patterns
+
+- Event-driven microservice pipelines  
+- Lambda & Kappa architectures  
+- Medallion Architecture (Bronze / Silver / Gold)  
+- Streaming Feature Stores  
+- Auto-trigger ML training systems  
+- Continuous deployment of ML models  
+
+---
+
+## ⚙️ Technology Stack
+
+<p align="left"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="42"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="42"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="42"/>
+</p>
+
+---
+
+## 🚀 Flagship Projects
+
+### 🟢 Enterprise Real-Time Crypto Market Lakehouse & MLOps Platform
+
+> End-to-end production-grade **Big Data + Streaming + ML + MLOps** system
+
+**Architecture:**
+
+```text
+Binance WebSocket
+        ↓
+Kafka (High-Throughput Broker)
+        ↓
+Spark Structured Streaming
+        ↓
+Delta Lake (Bronze → Silver → Gold)
+        ↓
+ML Feature Engineering
+        ↓
+Auto Training Trigger (ml_watcher)
+        ↓
+Spark MLlib & MLflow
+        ↓
+Live Inference + Dashboards
