@@ -1,12 +1,11 @@
-
 <h1 align="center">Hi 👋, I'm Ömer Çakan</h1>
 
 <h3 align="center">
-Data Scientist & Big Data Engineer | Real-Time Systems Architect | MLOps Engineer  
+Data & MLOps Engineer Candidate | Building Real-Time Pipelines & Lakehouse Architectures
 </h3>
 
 <p align="center">
-Designing Production-Grade Data Platforms • Streaming Architectures • Distributed ML Systems  
+Developing Scalable Data Pipelines • Streaming Architectures • MLOps Ecosystems
 </p>
 
 <p align="center">
@@ -19,57 +18,35 @@ Designing Production-Grade Data Platforms • Streaming Architectures • Distri
 
 ## 🚀 Professional Identity
 
-I am a **Data Scientist & Big Data Engineer** specialized in **real-time streaming systems, distributed machine learning, and MLOps pipelines**.
+[cite_start]I am a **Data & MLOps Engineer candidate** focused on building **real-time streaming systems, data pipelines, and MLOps lifecycles** [cite: 7-8]. 
 
-My work focuses on building **end-to-end data platforms** that ingest, process, analyze and learn from **high-volume streaming data** using **modern data stack technologies**.
+[cite_start]I combine **Data Science vision** with **Data Engineering discipline** to transform raw data into "feature-ready" analytical layers. I focus on developing systems that are:
 
-I design systems that are:
-
-- ⚡ High-throughput  
-- 🔄 Real-time  
-- 🧱 Fault-tolerant  
-- 📈 Scalable  
-- 🤖 ML-driven  
+- [cite_start]⚡ **Low-latency:** End-to-end processing in seconds[cite: 55, 58].
+- 🔄 **Idempotent:** Reliable and reproducible data pipelines.
+- [cite_start]🧱 **Containerized:** Fully isolated and portable environments using Docker [cite: 12-13].
+- [cite_start]🤖 **ML-Driven:** Automated model training and deployment (MLOps)[cite: 59].
 
 ---
 
-## 🏗️ System Architecture Expertise
+## 🏗️ Technical Expertise
 
-### 🔹 Streaming & Data Engineering
-- Apache Kafka (Event Streaming, Exactly-once pipelines)
-- Apache Spark Structured Streaming
-- Delta Lake (Bronze → Silver → Gold Architecture)
-- Real-time Feature Engineering
-- Distributed Batch & Stream Processing
+### 🔹 Data Engineering & Streaming
+- [cite_start]**Processing:** Apache Spark Structured Streaming, Apache Flink [cite: 40-41].
+- **Messaging:** Apache Kafka (High-throughput ingestion).
+- [cite_start]**Storage:** Delta Lake (Medallion Architecture: Bronze → Silver → Gold)[cite: 12, 66].
+- [cite_start]**Modelling:** dbt (Data Build Tool) for modular analytical layers[cite: 46, 67].
 
-### 🔹 Machine Learning & MLOps
-- Spark MLlib
-- Scikit-learn
-- PyTorch
-- TensorFlow
-- MLflow
-- AutoML Systems
-- Continuous Training Pipelines
-- Model Drift Detection
-- Online Inference Architectures
+### 🔹 MLOps & Machine Learning
+- [cite_start]**Lifecycle:** MLflow for model tracking and registry[cite: 59, 63].
+- **Serving:** FastAPI for high-performance Model-as-a-Service (MaaS).
+- [cite_start]**Automated ML:** AutoML pipelines with Scikit-learn, XGBoost, and LightGBM[cite: 37, 91].
+- [cite_start]**Explainability:** XAI integration with SHAP and LIME[cite: 38, 81].
 
-### 🔹 Platform & DevOps
-- Docker
-- Docker Compose
-- CI/CD Pipelines
-- Monitoring (Grafana, Prometheus)
-- Observability Systems
-
----
-
-## 🧠 Advanced Architecture Patterns
-
-- Event-driven microservice pipelines  
-- Lambda & Kappa architectures  
-- Medallion Architecture (Bronze / Silver / Gold)  
-- Streaming Feature Stores  
-- Auto-trigger ML training systems  
-- Continuous deployment of ML models  
+### 🔹 Infrastructure & DevOps
+- [cite_start]**Containerization:** Docker & Docker Compose (16+ microservices orchestration)[cite: 44, 56].
+- [cite_start]**Monitoring:** Infrastructure & data observability with Prometheus and Grafana [cite: 62-63].
+- [cite_start]**Cloud:** AWS (EC2, S3/MinIO) environment simulation [cite: 32, 42-44].
 
 ---
 
@@ -78,46 +55,30 @@ I design systems that are:
 <p align="left"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="42"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="42"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="42"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="42"/>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="42"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="42"/>
+<img src="https://www.vectorlogo.zone/logos/deltalakeio/deltalakeio-icon.svg" width="42"/>
+<img src="https://www.vectorlogo.zone/logos/getdbt/getdbt-icon.svg" width="42"/>
+<img src="https://www.vectorlogo.zone/logos/fastapi/fastapi-icon.svg" width="42"/>
+<img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="42"/>
 </p>
 
 ---
-## 🚀 All streamlit project link:
-Streamlit:[https://bigdatas-mulatoregitim-mahry6kuukr6dmqgqbvbpp.streamlit.app/]
-Streamlit:[https://kripto-fiyat-tahmin-uygulamasi-xann46irjmdsgsgtmuc6zy.streamlit.app/]
-
-
 
 ## 🚀 Flagship Projects
 
-### 🟢 Enterprise Real-Time Crypto Market Lakehouse & MLOps Platform
+### 🟢 Enterprise Real-Time Lakehouse & MLOps Platform
+> **End-to-end data ecosystem with 5s latency and 60% RAM optimization.**
 
-> End-to-end production-grade **Big Data + Streaming + ML + MLOps** system
+- **Key Achievement:** Reduced system RAM consumption from 15GB to 6GB by offloading ML inference from Spark to FastAPI.
+- **Architecture:** WebSocket → Kafka → Spark Streaming → Delta Lake → MLflow → FastAPI.
+- **Stack:** Spark, Kafka, Delta Lake, MLflow, FastAPI, Docker, TimescaleDB.
 
+### 🌍 Global Energy & Climate Intelligence Hub
+> **Automated data pipeline for 4+ heterogeneous datasets using Medallion Architecture.**
 
+- **Key Achievement:** Integrated historical data with live NASA POWER API meteorological data for enriched analytics.
+- **Stack:** PySpark, dbt, PostgreSQL, MinIO, XGBoost, Docker.
 
-**Architecture:**
-
-```text
-Binance WebSocket
-        ↓
-Kafka (High-Throughput Broker)
-        ↓
-Spark Structured Streaming
-        ↓
-Delta Lake (Bronze → Silver → Gold)
-        ↓
-ML Feature Engineering
-        ↓
-Auto Training Trigger (ml_watcher)
-        ↓
-Spark MLlib & MLflow
-        ↓
-Live Inference + Dashboards
-
+---
