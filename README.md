@@ -1,84 +1,83 @@
 <h1 align="center">Hi 👋, I'm Ömer Çakan</h1>
 
 <h3 align="center">
-Data & MLOps Engineer Candidate | Building Real-Time Pipelines & Lakehouse Architectures
+Data & Infrastructure Engineer | Building Real-Time Pipelines & Lakehouse Architectures
 </h3>
 
 <p align="center">
-Developing Scalable Data Pipelines • Streaming Architectures • MLOps Ecosystems
+<b>Real-Time Streaming • Lakehouse Architectures • MLOps Ecosystems • Analytics Engineering</b>
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/%C3%B6mer-%C3%A7akan-819751261" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-</a>
+  <a href="https://www.linkedin.com/in/ömer-çakan-819751261" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:omercakan5@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 ## 🚀 Professional Identity
 
-[cite_start]I am a **Data & MLOps Engineer candidate** focused on building **real-time streaming systems, data pipelines, and MLOps lifecycles** [cite: 7-8]. 
+I am a **Data & Infrastructure Engineer** specializing in high-throughput streaming systems and autonomous MLOps lifecycles. I bridge the gap between Data Science vision and Engineering discipline by building "Production-Ready" environments.
 
-[cite_start]I combine **Data Science vision** with **Data Engineering discipline** to transform raw data into "feature-ready" analytical layers. I focus on developing systems that are:
-
-- [cite_start]⚡ **Low-latency:** End-to-end processing in seconds[cite: 55, 58].
-- 🔄 **Idempotent:** Reliable and reproducible data pipelines.
-- [cite_start]🧱 **Containerized:** Fully isolated and portable environments using Docker [cite: 12-13].
-- [cite_start]🤖 **ML-Driven:** Automated model training and deployment (MLOps)[cite: 59].
+My architectural focus:
+- ⚡ **Ultra Low-Latency:** End-to-end processing and AI inference in under 5 seconds.
+- 🔄 **Idempotent & Reliable:** Fault-tolerant pipelines designed with Medallion Architecture (Bronze/Silver/Gold).
+- 🧱 **Cloud-Native & Containerized:** Orchestrating complex microservices (15+) using Docker & Docker Compose.
+- 🤖 **Autonomous MLOps:** Integrated Continuous Training (CT) loops and hot-reload model serving.
 
 ---
 
 ## 🏗️ Technical Expertise
 
 ### 🔹 Data Engineering & Streaming
-- [cite_start]**Processing:** Apache Spark Structured Streaming, Apache Flink [cite: 40-41].
-- **Messaging:** Apache Kafka (High-throughput ingestion).
-- [cite_start]**Storage:** Delta Lake (Medallion Architecture: Bronze → Silver → Gold)[cite: 12, 66].
-- [cite_start]**Modelling:** dbt (Data Build Tool) for modular analytical layers[cite: 46, 67].
+- **Processing:** Apache Spark (Structured Streaming), Apache Flink, PySpark.
+- **Messaging:** Apache Kafka (High-throughput ingestion & WebSocket integration).
+- **Storage:** Delta Lake (ACID transactions), MinIO (S3), TimescaleDB (Time-series optimization).
+- **Analytics Engineering:** **dbt** (Data Build Tool) for modular and tested SQL modeling.
 
 ### 🔹 MLOps & Machine Learning
-- [cite_start]**Lifecycle:** MLflow for model tracking and registry[cite: 59, 63].
-- **Serving:** FastAPI for high-performance Model-as-a-Service (MaaS).
-- [cite_start]**Automated ML:** AutoML pipelines with Scikit-learn, XGBoost, and LightGBM[cite: 37, 91].
-- [cite_start]**Explainability:** XAI integration with SHAP and LIME[cite: 38, 81].
+- **Lifecycle:** MLflow for model tracking, registry, and experiment management.
+- **Serving:** FastAPI for high-performance Model-as-a-Service (MaaS) and DaaS API Gateways.
+- **Intelligence:** XGBoost, LightGBM, Scikit-Learn, and Explainable AI (SHAP).
 
 ### 🔹 Infrastructure & DevOps
-- [cite_start]**Containerization:** Docker & Docker Compose (16+ microservices orchestration)[cite: 44, 56].
-- [cite_start]**Monitoring:** Infrastructure & data observability with Prometheus and Grafana [cite: 62-63].
-- [cite_start]**Cloud:** AWS (EC2, S3/MinIO) environment simulation [cite: 32, 42-44].
+- **DevOps:** Docker, AWS (EC2, S3), Linux (Bash Scripting), Git.
+- **Monitoring:** Infrastructure and data observability with Prometheus, Grafana, and Metabase BI.
 
 ---
 
 ## ⚙️ Technology Stack
 
-<p align="left"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="42"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="42"/>
-<img src="https://www.vectorlogo.zone/logos/deltalakeio/deltalakeio-icon.svg" width="42"/>
-<img src="https://www.vectorlogo.zone/logos/getdbt/getdbt-icon.svg" width="42"/>
-<img src="https://www.vectorlogo.zone/logos/fastapi/fastapi-icon.svg" width="42"/>
-<img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="42"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/delta%20lake-white?style=for-the-badge&logo=delta-lake&logoColor=00AEEF" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/mlflow-%23d3d3d3.svg?style=for-the-badge&logo=mlflow&logoColor=blue" />
 </p>
 
 ---
 
 ## 🚀 Flagship Projects
 
-### 🟢 Enterprise Real-Time Lakehouse & MLOps Platform
-> **End-to-end data ecosystem with 5s latency and 60% RAM optimization.**
+### 🟢 [RadarPro: Real-Time DaaS & MLOps Platform](https://github.com/propaper12/An-Open-Source-Real-Time-Financial-Lakehouse-Project)
+> **Enterprise-grade streaming ecosystem with 5s latency and 60% RAM optimization.**
 
-- **Key Achievement:** Reduced system RAM consumption from 15GB to 6GB by offloading ML inference from Spark to FastAPI.
-- **Architecture:** WebSocket → Kafka → Spark Streaming → Delta Lake → MLflow → FastAPI.
-- **Stack:** Spark, Kafka, Delta Lake, MLflow, FastAPI, Docker, TimescaleDB.
+- **Achievement:** Architected a Model-as-a-Service (MaaS) layer using **FastAPI** and **Redis**, reducing RAM usage from 15GB to 6GB while enabling zero-downtime hot-reloads.
+- **Security:** Built a Tiered DaaS (FREE/VIP) model with Redis-based distributed rate limiting and authentication.
 
-### 🌍 Global Energy & Climate Intelligence Hub
-> **Automated data pipeline for 4+ heterogeneous datasets using Medallion Architecture.**
+### 🌍 [Global Energy & Climate Intelligence Hub](https://github.com/propaper12/global-energy-climate-data-engineering)
+> **Automated Analytics Engineering platform for 4+ global heterogeneous datasets.**
 
-- **Key Achievement:** Integrated historical data with live NASA POWER API meteorological data for enriched analytics.
-- **Stack:** PySpark, dbt, PostgreSQL, MinIO, XGBoost, Docker.
+- **Achievement:** Implemented an **idempotent pipeline** using PySpark and dbt, increasing analytical query performance by 3x through advanced indexing and partitioning.
+- **Stack:** PySpark, dbt, Delta Lake, MLflow, PostgreSQL, Docker.
 
 ---
