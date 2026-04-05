@@ -1,1 +1,91 @@
-<h3 align="center"> Data & Infrastructure Engineer | Building Real-Time Pipelines & Lakehouse Architectures </h3> <p align="center"> <b>Real-Time Streaming • Lakehouse Architectures • MLOps Ecosystems • Analytics Engineering</b> </p> <p align="center"> <a href="https://www.linkedin.com/in/ömer-çakan-819751261" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:omercakan5@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p> --- ## 🚀 Professional Identity I am a **Data & Infrastructure Engineer** specializing in high-throughput streaming systems and autonomous MLOps lifecycles. I bridge the gap between Data Science vision and Engineering discipline by building "Production-Ready" environments. My architectural focus: - ⚡ **Ultra Low-Latency:** End-to-end processing and AI inference in under 5 seconds. - 🔄 **Idempotent & Reliable:** Fault-tolerant pipelines designed with Medallion Architecture (Bronze/Silver/Gold). - 🧱 **Cloud-Native & Containerized:** Orchestrating complex microservices (15+) using Docker & Docker Compose. - 🤖 **Autonomous MLOps:** Integrated Continuous Training (CT) loops and hot-reload model serving. --- ## 🏗️ Technical Expertise ### 🔹 Data Engineering & Streaming - **Processing:** Apache Spark (Structured Streaming), Apache Flink, PySpark. - **Messaging:** Apache Kafka (High-throughput ingestion & WebSocket integration). - **Storage:** Delta Lake (ACID transactions), MinIO (S3), TimescaleDB (Time-series optimization). - **Analytics Engineering:** **dbt** (Data Build Tool) for modular and tested SQL modeling. ### 🔹 MLOps & Machine Learning - **Lifecycle:** MLflow for model tracking, registry, and experiment management. - **Serving:** FastAPI for high-performance Model-as-a-Service (MaaS) and DaaS API Gateways. - **Intelligence:** XGBoost, LightGBM, Scikit-Learn, and Explainable AI (SHAP). ### 🔹 Infrastructure & DevOps - **DevOps:** Docker, AWS (EC2, S3), Linux (Bash Scripting), Git. - **Monitoring:** Infrastructure and data observability with Prometheus, Grafana, and Metabase BI. --- ## ⚙️ Technology Stack <p align="left"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" /> <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" /> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/delta%20lake-white?style=for-the-badge&logo=delta-lake&logoColor=00AEEF" /> <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" /> <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/mlflow-%23d3d3d3.svg?style=for-the-badge&logo=mlflow&logoColor=blue" /> </p> --- ## 🚀 Flagship Projects ### 🟢 [RadarPro: Real-Time DaaS & MLOps Platform](https://github.com/propaper12/An-Open-Source-Real-Time-Financial-Lakehouse-Project) > **Enterprise-grade streaming ecosystem with 5s latency and 60% RAM optimization.** - **Achievement:** Architected a Model-as-a-Service (MaaS) layer using **FastAPI** and **Redis**, reducing RAM usage from 15GB to 6GB while enabling zero-downtime hot-reloads. - **Security:** Built a Tiered DaaS (FREE/VIP) model with Redis-based distributed rate limiting and authentication. ### 🌍 [Global Energy & Climate Intelligence Hub](https://github.com/propaper12/global-energy-climate-data-engineering) > **Automated Analytics Engineering platform for 4+ global heterogeneous datasets.** - **Achievement:** Implemented an **idempotent pipeline** using PySpark and dbt, increasing analytical query performance by 3x through advanced indexing and partitioning. - **Stack:** PySpark, dbt, Delta Lake, MLflow, PostgreSQL, Docker. ---
+<h1 align="center">Hi 👋, I'm Ömer Çakan</h1>
+
+<h3 align="center">
+Data Engineer → Building AI-Powered Data Systems & Autonomous Pipelines
+</h3>
+
+<p align="center">
+<b>Streaming Systems • Data Pipelines • AI Agents • RAG Architectures</b>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ömer-çakan-819751261" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:omercakan5@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🚀 About Me
+
+I am a **Data Engineer focused on building end-to-end data systems**, from real-time pipelines to AI-powered decision layers.
+
+Recently, I’ve been exploring how traditional data pipelines can evolve into **autonomous AI systems** by integrating:
+- RAG (Retrieval-Augmented Generation)
+- AI Agents (ReAct architecture)
+- Vector Databases & Streaming pipelines
+
+My goal is not just to process data, but to design systems that can **understand and act on data.**
+
+---
+
+## 🧠 What I Build
+
+- ⚡ **Real-Time Data Pipelines** (Kafka, Spark, Streaming Systems)
+- 🗄️ **Lakehouse Architectures** (MinIO, Delta Lake, Medallion Design)
+- 🤖 **AI Agent Systems** (RAG + Tool Calling + Local LLMs)
+- 🔄 **End-to-End Data → AI Pipelines**
+- 🧱 **Containerized Systems (Docker-based environments)**
+
+---
+
+## 🏗️ Tech Stack
+
+### 🔹 Data Engineering
+Kafka • Spark • PySpark • Delta Lake • MinIO • PostgreSQL • dbt
+
+### 🔹 AI & ML Systems
+Ollama • Qdrant • RAG • MLflow • Scikit-Learn
+
+### 🔹 Backend & Infra
+Node.js • FastAPI • Docker • Linux • AWS (EC2, S3)
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 GitLawb-AI-DocInsight
+> AI Agent + RAG-based Data Pipeline (Local-First Architecture)
+
+- Built an **autonomous AI agent system** using ReAct (Thought–Action–Observation loop)
+- Designed **vector-based retrieval pipeline** with Qdrant (semantic search)
+- Implemented **event-driven data ingestion** with Kafka
+- Created **local LLM-based system** using Ollama (cloud-independent AI)
+- Developed **traceable AI system** (tool usage + reasoning visibility)
+
+---
+
+### 🟢 RadarPro – Real-Time DaaS & MLOps Platform
+> Streaming-based Data-as-a-Service system with production-like architecture
+
+- Built **low-latency streaming pipeline (<5s)** using Kafka & Spark
+- Designed **MaaS architecture** with FastAPI & Redis (60% RAM optimization)
+- Implemented **tiered API system (FREE/VIP)** with rate limiting & auth
+
+---
+
+## 🎯 Current Focus
+
+- AI Agents & Autonomous Systems  
+- Data Engineering → AI Integration  
+- Scalable & Distributed Architectures  
+
+---
+
+## ⚡ Philosophy
+
+> “Data is not just something to process.  
+> It’s something systems should act on.”
