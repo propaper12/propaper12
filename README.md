@@ -72,7 +72,7 @@ My goal is to build systems that don't just move data, but create environments w
 <div align="center">
 
 <a href="https://github.com/propaper12">
-  <img src="https://github-readme-stats.vercel.app/api?username=propaper12&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Ömer's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=propaper12&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="" />
 </a>
 <a href="https://github.com/propaper12">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=propaper12&theme=github-dark-blue&hide_border=true&background=0d1117" alt="Ömer's GitHub Streak" />
