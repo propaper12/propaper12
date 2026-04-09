@@ -95,5 +95,7 @@ My goal is to build systems that don't just move data, but create environments w
 <br>
 <div align="center">
   <sub><i>Architecting the future of data, one pipeline at a time.</i></sub>
+
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer)
 </div>
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer)
+
