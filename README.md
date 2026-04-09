@@ -2,12 +2,13 @@
 
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" height="35px">
 
+[![Profile Views](https://komarev.com/ghpvc/?username=propaper12&color=blue&style=flat-square)](https://github.com/propaper12)
 # Hey, I'm Ömer Çakan!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+%26+Infrastructure+Engineer;Building+Enterprise-Grade+DaaS+Platforms;MLOps+%26+Real-Time+Streaming+Pipelines;Bridging+Big+Data+with+AI+Agents)](https://git.io/typing-svg)
 
 </div>
-[![Profile Views](https://komarev.com/ghpvc/?username=propaper12&color=blue&style=flat-square)](https://github.com/propaper12)
+
 ---
 
 ## 🚀 About Me
