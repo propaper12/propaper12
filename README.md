@@ -2,10 +2,13 @@
 
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" height="35px">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=propaper12&color=blue&style=flat-square)](https://github.com/propaper12)
-# Hey, I'm Ömer Çakan!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+%26+Infrastructure+Engineer;Building+Enterprise-Grade+DaaS+Platforms;MLOps+%26+Real-Time+Streaming+Pipelines;Bridging+Big+Data+with+AI+Agents)](https://git.io/typing-svg)
+
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm Omer cakan</h1>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=propaper12&color=blue&style=flat-square)](https://github.com/propaper12)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+%26+Infrastructure+Engineer)](https://git.io/typing-svg)
 
 </div>
 
@@ -67,19 +70,22 @@ My goal is to build systems that don't just move data, but create environments w
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/propaper12">
-  <img src="https://github-readme-stats.vercel.app/api?username=propaper12&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="" />
-</a>
-<a href="https://github.com/propaper12">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=propaper12&theme=github-dark-blue&hide_border=true&background=0d1117" alt="Ömer's GitHub Streak" />
-</a>
-
-</div>
-
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/propaper12">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=propaper12&cache_seconds=7200&layout=compact&theme=monokai&border_radius=10" alt="propaper12's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=propaper12&theme=monokai&hide_border=true&cache_seconds=86400" alt="propaper12's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=propaper12&theme=monokai&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Omer cakan's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=propaper12&theme=monokai&radius=10" alt="propaper12's Activity Graph" />
+</p>
+<p align="center">
+  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
+</p>
 ---
 
 ## 🔗 Connect With Me
